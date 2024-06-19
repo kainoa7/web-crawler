@@ -1,11 +1,6 @@
 # Web Crawler
 A web crawler application that creates a web-link graphs and finds the Closeness Centrality for each node
 
-Read the PowerPoint.
-*You may use the Graph Library Shortest Paths functions*
-*You **may not** use the Graph Library Closeness Centrality functions*
-
-**DO NOT COPY, DO THE PROJECT 100% YOURSEVES**
 
 ## Introduction	
 This program is a web crawler designed to extract URLs from web pages and create a graph representation of the web structure. The main purpose of the project is to analyze the connectivity of web pages and identify central nodes within the network. This can be useful for various applications such as understanding website structures, search engine optimization, and network analysis.
