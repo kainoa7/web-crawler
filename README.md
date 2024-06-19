@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/vObvlpWW)
 # Web Crawler
 A web crawler application that creates a web-link graphs and finds the Closeness Centrality for each node
 
@@ -55,10 +54,6 @@ Collaborating on a project, especially one with diverse requirements like web cr
 
 Working collaboratively on a relatively small project presented its own set of hurdles, but we navigated them by dividing tasks and taking turns building specific components. This approach allowed us to leverage each other's strengths and expertise while ensuring a cohesive end product. Ultimately, overcoming these challenges fostered a deeper understanding of the project as a whole and enhanced our problem-solving skills in a collaborative environment.
 
-## Sample Run
-![Sample terminal commands to activate program](image.png)
+
 ## Results
 ![Sparse Tree created from depth 1 of a website (facebook.com)](image-1.png)
-
-## Youtube Link
-``https://youtu.be/HjVH1dQUetI``
